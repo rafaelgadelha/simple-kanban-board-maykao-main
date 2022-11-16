@@ -26,7 +26,10 @@ Here are the technologies used in this project.
 
 ## Project finished in the lesson.
 
-![Homepage image lesson](https://github.com/rafaelgadelha/simple-kanban-board-maykao-main/tree/main/readme/skb_complete_tutorial.JPG)
+![image](https://user-images.githubusercontent.com/117649672/202198564-6c9c6424-8344-45a2-8015-0e32b6f5cc2e.png)
+https://github.com/rafaelgadelha/simple-kanban-board-maykao-main/blob/main/readme/skb_complete_tutorial.JPG?raw=true
+![skb_complete_tutorial](https://user-images.githubusercontent.com/117649672/202198744-684c8978-ff2b-4f24-85d4-297260142766.JPG)
+
 
 ## What the application can do
 
@@ -36,7 +39,7 @@ Here are the technologies used in this project.
 
 ### 2 - You can add the cards.
 
-![Add card]https://github.com/rafaelgadelha/simple-kanban-board-maykao-main/tree/main/readme/skb_add_cards.png)
+![Add card](https://github.com/rafaelgadelha/simple-kanban-board-maykao-main/tree/main/readme/skb_add_cards.png)
 
 ### 3 - And dragg the cards.
 
@@ -64,7 +67,7 @@ The main features of the application are:
 
 
 ## Links
-  - Repository: https://github.com/RafaelGadelha/simple-kanban-board-maykao
+  - Repository: https://github.com/rafaelgadelha/simple-kanban-board-maykao-main/
     - In case of bugs like security, please contact Gadellharafaell@gmail.com, i'm learn the programing and English skills, and i will happy with you comments.
 
   ## Versioning
