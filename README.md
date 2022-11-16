@@ -26,29 +26,29 @@ Here are the technologies used in this project.
 
 ## Project finished in the lesson.
 
-![Homepage image lesson](https://github.com/RafaelGadelha/simple-kanban-board-maykao/blob/main/readme/skb_complete_tutorial.JPG)
+![Homepage image lesson](https://github.com/rafaelgadelha/simple-kanban-board-maykao-main/tree/main/readme/skb_complete_tutorial.JPG)
 
 ## What the application can do
 
 ### 1 - When you access the project, you will see this initial page.
 
-![Homepage image](https://github.com/RafaelGadelha/simple-kanban-board-maykao/blob/main/readme/skb_main.png)
+![Homepage image](https://github.com/rafaelgadelha/simple-kanban-board-maykao-main/tree/main/readme/skb_main.png)
 
 ### 2 - You can add the cards.
 
-![Add card](https://github.com/RafaelGadelha/simple-kanban-board-maykao/blob/main/readme/skb_add_cards.png)
+![Add card]https://github.com/rafaelgadelha/simple-kanban-board-maykao-main/tree/main/readme/skb_add_cards.png)
 
 ### 3 - And dragg the cards.
 
-![Draging card](https://github.com/RafaelGadelha/simple-kanban-board-maykao/blob/main/readme/skb_dragging_cards.png)
+![Draging card](https://github.com/rafaelgadelha/simple-kanban-board-maykao-main/tree/main/readme/skb_dragging_cards.png)
 
 ### 4 - Or just delete them.
 
-![Delete card](https://github.com/RafaelGadelha/simple-kanban-board-maykao/blob/main/readme/skb_remove_cards.png)
+![Delete card](https://github.com/rafaelgadelha/simple-kanban-board-maykao-main/tree/main/readme/skb_remove_cards.png)
 
 ### 5 - It's possible diferent status.
 
-![Main](https://github.com/RafaelGadelha/simple-kanban-board-maykao/blob/main/readme/skb_main_with-cards.png)
+![Main](https://github.com/rafaelgadelha/simple-kanban-board-maykao-main/tree/main/readme/skb_main_with-cards.png)
 
 ## Features
 
