@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Simple Kanban Board</title>
+
+  <link rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,300;0,400;0,600;1,600;1,700&display=swap" rel="stylesheet">
+</head>
+<body>
+  <main>
+    <aside class="menu">
+        <div class="addtask btnControl"><a href="#">+</a></div>
+        <div class="removetask btnControl"><a href="#">-</a></div>
+    </aside>
+    <div class="boards">
+      <div class="board">
+        <h3>To do</h3>
+        <div class="dropzone todo">
+        </div>
+      </div>
+      <div class="board">
+        <h3>In progress</h3>
+        <div class="dropzone progress">
+        </div>
+      </div>
+      <div class="board">
+        <h3>Done</h3>
+        <div class="dropzone done">
+        </div>
+      </div>
+  </main>
+  <script src="script.js" defer></script>
+</body>
+</html>

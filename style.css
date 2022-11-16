@@ -1,0 +1,163 @@
+html{
+  font-family: 'Nunito';
+}
+
+body{
+  background-color: #130f0d;
+  color: white;
+  
+}
+main {
+  display: grid;
+  grid-template-columns: 10% 90%;
+}
+.menu{
+  margin-top: 32px;
+  text-align: center;
+}
+
+.btnControl{
+  width: 54px;
+  height: 54px;
+  border-radius: 50%;
+  border: 1px solid #FD951Fcc;
+  background-color: #7a7a7a11;
+  text-align: center;
+  line-height: 54px;
+  margin-top: 20px;
+}
+
+.menu a{
+  text-decoration: none;
+  font-size: 36px;
+  font-weight: 900;
+  color: #fff;
+  padding: 10px;
+}
+.btnControl a{
+  font-size: 18px;
+}
+.clicked{
+  border: 1px solid #9B111E;
+}
+.boards{
+  display: flex;
+  margin-top: 32px;
+}
+
+.board{
+  background: #141316;
+  border: 1px solid #7a7a7a11;
+  border-radius: 4px;
+  margin: 0 16px;
+}
+
+.board h3{
+  padding: 16px;
+  margin: 0;
+  color: #FD951Fcc;
+}
+
+.dropzone{
+  padding: 16px;
+  min-width: 282px;
+  min-height: 200px;
+  height: 75%;
+}
+
+.card{
+  background-color: #1A1A1C;
+  padding: 16px;
+  box-shadow: 0 2px 2px -1px #FD951Fcc;
+  padding: 16px;
+  width: 250px;
+  margin: 25px 0;
+  border-radius: 4px;
+  font-weight: 600;
+  font-size: 18px;
+}
+.card:hover{
+  cursor:move;
+}
+
+.status{
+  width: 30px;
+  height: 8px;
+  margin-bottom: 16px;
+  border-radius: 8px;
+}
+.hide{
+  display: none;
+}
+.show{
+  display: block;
+}
+.content input{
+  background-color: #1A1A1C;
+  border: none;
+  color: #ffffffaa;
+  display: block;
+  font-size: 1.05em;
+  font-weight: 400;
+  width: 240px;
+}
+.content input:focus{
+  border-color: #FD951Fcc;
+}
+.description{
+  margin-top: 10px;
+}
+
+.description-text{
+  width: 240px;
+  resize: vertical;
+  box-shadow: 0 2px 2px 0px #FD951Fcc;
+  border: none;
+  background-color: #7a7a7a11;
+  color: #ffffffaa;
+  font-size: 18px;
+
+}
+
+.btndeleteTask a{
+  text-decoration: none;
+  color: white;
+  padding: 8px;
+  font-weight: bold;
+}
+.btndeleteTask{
+  width: 32px;
+  height: 32px;
+  background-color: #FD951F88;
+  border-radius: 50%;
+  margin-bottom: 16px;
+  text-align: center;
+  line-height: 32px;
+  transition: 0.5s;
+}
+.btndeleteTask:hover{
+  background-color: #ffffdd11;
+}
+.btndeleteTask a:hover{
+  color: #FD951F88;
+}
+
+.status.green{
+  background-color: #23d2ac;
+}
+.status.blue{
+  background-color: #33adff;
+}
+.status.yellow{
+  background-color: yellow;
+}
+.highlight{
+  background-color: #FD951F08;
+}
+.is-dragging{
+  cursor: move;
+  opacity: 0.3;
+}
+.over{
+  background-color: #4cd13711;
+}
