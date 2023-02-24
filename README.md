@@ -66,6 +66,8 @@ The main features of the application are:
 ## Links
   - Repository: https://github.com/rafaelgadelha/simple-kanban-board-maykao-main/
     - In case of bugs like security, please contact Gadellharafaell@gmail.com, i'm learn the programing and English skills, and i will happy with you comments.
+    
+  - Live demo: https://discord.com/channels/943925092495261757/943925092495261760/1078683367203152004
 
   ## Versioning
 
